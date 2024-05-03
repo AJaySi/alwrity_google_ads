@@ -1,38 +1,20 @@
-# Alwrity - AI Business Letter Writer (Beta)
+# AI Google Ads Description Generator
 
-![Alwrity Logo](https://link.to.your/logo.png)
+This project offers a user-friendly Streamlit application for generating compelling Google Ads descriptions using AI. Users can input key details about their product/service, target audience, and desired call to action.
 
-## Introduction
+## Key Features:
+- **Streamlined Input:** Enter product/service name, target audience, key benefit/USP, and call to action.
+- **AI-Powered Generation:** Uses a large language model (LLM) to create persuasive ad descriptions.
+- **Customization Options:** Choose predefined call to action options or input a custom one, with optional keywords.
+- **Target Audience Guidance:** Provides target audience categories for refining targeting.
+- **Error Handling:** Includes input validation for a smooth user experience.
 
-Alwrity is an AI-powered business letter writing tool designed to assist users in generating professional business letters effortlessly. Whether you need to draft a proposal, express a complaint, convey gratitude, provide a reference, or submit a resignation, Alwrity can help you craft well-structured and articulate letters tailored to your specific needs.
-
-## Features
-
-- **Letter Type Selection**: Choose from a variety of letter types including Proposal, Complaint, Thank You, Reference Letter, and Resignation Letter.
-- **Customizable Content**: Input key points to include in your letter, such as specific details or instructions.
-- **Automatic Generation**: Alwrity automatically generates a business letter based on your selected type and provided content.
-- **Error Handling**: Alwrity provides error messages if required details are missing and handles exceptions during the generation process.
+## Getting Started
+1. **Clone the repository:**
+5. **Access the application:** Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
 
 ## Usage
-
-1. Select the type of letter you want to write.
-2. Input key points or instructions for the letter.
-3. Enter recipient's name.
-4. Click on the "Write Business Letter" button.
-5. Alwrity will generate a professional business letter based on your input.
-
-## Dependencies
-
-- Streamlit
-- OpenAI's Generative AI API (Gemini)
-
-## Installation
-
-1. Clone this repository.
-2. Install dependencies using `pip install -r requirements.txt`.
-3. Set up your Gemini API key in your environment variables.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+- **Input Details:** Provide the required information about your product/service, target audience, and desired call to action.
+- **Generate Descriptions:** Click the "Write Google Ads Copy" button to generate AI-powered ad descriptions.
+- **Review and Refine:** The application will display the generated descriptions. Review them and make any necessary adjustments or refinements.
+- **Utilize in Ad Campaigns:** Use the generated descriptions in your Google Ads campaigns to attract potential customers and drive results.
